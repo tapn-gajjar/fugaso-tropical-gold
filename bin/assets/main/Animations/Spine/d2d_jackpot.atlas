@@ -1,0 +1,48 @@
+
+d2d_jackpot.png
+size: 160,372
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+common_sparkle
+  rotate: false
+  xy: 1, 1
+  size: 44, 44
+  orig: 86, 87
+  offset: 23, 21
+  index: -1
+d2d_glow_1
+  rotate: true
+  xy: 85, 34
+  size: 155, 72
+  orig: 198, 99
+  offset: 11, 17
+  index: -1
+d2d_glow_2
+  rotate: true
+  xy: 85, 190
+  size: 179, 74
+  orig: 198, 99
+  offset: 10, 17
+  index: -1
+d2d_glow_3
+  rotate: true
+  xy: 1, 46
+  size: 140, 74
+  orig: 198, 99
+  offset: 29, 17
+  index: -1
+d2d_logo
+  rotate: true
+  xy: 1, 187
+  size: 182, 83
+  orig: 198, 99
+  offset: 8, 9
+  index: -1
+d2d_logo_tm
+  rotate: false
+  xy: 46, 22
+  size: 32, 23
+  orig: 43, 48
+  offset: 6, 11
+  index: -1

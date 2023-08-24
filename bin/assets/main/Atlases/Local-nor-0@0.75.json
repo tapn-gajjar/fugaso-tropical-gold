@@ -1,0 +1,28 @@
+{"frames": {
+
+"paytable_nor":
+{
+	"frame": {"x":177,"y":1,"w":387,"h":79},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":387,"h":79},
+	"sourceSize": {"w":387,"h":79}
+},
+"win_up_nor":
+{
+	"frame": {"x":1,"y":1,"w":174,"h":113},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":174,"h":113},
+	"sourceSize": {"w":174,"h":113}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.1",
+	"image": "Local-nor-0@0.75.png",
+	"format": "RGBA8888",
+	"size": {"w":565,"h":115},
+	"scale": "0.5",
+	"smartupdate": "$TexturePacker:SmartUpdate:b5607c8003825226ab0aebfaf138f29c:418ba023601c6d385df96c4501f06329:faf4ef6928d59b1f1b2c6d1defeca041$"
+}
+}

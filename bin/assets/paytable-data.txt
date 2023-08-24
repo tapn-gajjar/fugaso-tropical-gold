@@ -1,0 +1,38 @@
+name                server      client
+man                 H           0
+gem_bag             F           1
+blue_gem            C           2
+logo                G           3
+liquid              D           4
+anchor              E           5
+red_gem             B           6
+yellow_gem          A           7
+green_gem           @           8
+any Logo & Man      K
+
+0
+@AAAB@FFFHCDD@ABBE@@HBBBCA@GGGDEAAB@CCFADG@@@BCCCADDDFH@EEE",
+@AAAB@FFFGCD@ABBE@@BBBCA@GGGHD@EAAB@CCFADG@@@BCCCEADDDFH@EEE@AAAB@FFFGCD@ABBE@@BBBCA@GGGHD@EAAB@CCFADGC",
+@AAAHB@FFFGCD@ABBE@@BBBCA@GGGD@EAAB@CCFADG@@@BCCCADDDFH@EEE"
+
+1
+@AAAB@FFFCD@ABBE@@BBBCAGGGD@EDAAB@CCFADG@@@BCCCADDDFAH@EEE",
+@AAAB@FFFCD@BBE@@HBBBC@AGGGBD@EAAB@CCFADG@@@BCCCEADDDFAH@EEE",
+@AAAB@FFFCD@BBE@@HBBBC@AGGGD@EAAB@CCFAD@@@BCCCEADDDFAH@EEE"
+
+0: {symbol: '@', extra: null, count: 3, factor: 2}Green Gem
+1: {symbol: 'A', extra: null, count: 3, factor: 4}Yellow Gem
+2: {symbol: 'B', extra: null, count: 3, factor: 5}Red Gem
+3: {symbol: 'C', extra: null, count: 3, factor: 6}Blue Gem
+4: {symbol: 'D', extra: null, count: 3, factor: 7}Liquid
+5: {symbol: 'E', extra: null, count: 3, factor: 15}Anchor
+6: {symbol: 'F', extra: null, count: 3, factor: 20}Gem Bag
+7: {symbol: 'G', extra: null, count: 3, factor: 25}Logo
+10:{symbol: 'K', extra: null, count: 3, factor: 50}Logo & Man
+8: {symbol: 'H', extra: null, count: 3, factor: 80}Man
+
+0: (3) [1, 1, 1]
+1: (3) [0, 0, 0]
+2: (3) [2, 2, 2]
+3: (3) [2, 1, 0]
+4: (3) [0, 1, 2]

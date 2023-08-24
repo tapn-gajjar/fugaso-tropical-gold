@@ -1,0 +1,118 @@
+
+chestbox_mini.png
+size: 917,545
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+chestbox_mini_box
+  rotate: false
+  xy: 0, 323
+  size: 401, 222
+  orig: 460, 280
+  offset: 26, 20
+  index: -1
+chestbox_mini_coin
+  rotate: false
+  xy: 581, 100
+  size: 283, 58
+  orig: 380, 150
+  offset: 47, 36
+  index: -1
+chestbox_mini_coin_glow_1
+  rotate: false
+  xy: 0, 38
+  size: 152, 85
+  orig: 152, 90
+  offset: 0, 0
+  index: -1
+chestbox_mini_coin_glow_2
+  rotate: false
+  xy: 239, 0
+  size: 100, 67
+  orig: 100, 70
+  offset: 0, 0
+  index: -1
+chestbox_mini_coin_glow_3
+  rotate: true
+  xy: 339, 8
+  size: 59, 48
+  orig: 70, 50
+  offset: 4, 0
+  index: -1
+chestbox_mini_coin_glow_4
+  rotate: false
+  xy: 531, 15
+  size: 127, 70
+  orig: 130, 70
+  offset: 0, 0
+  index: -1
+chestbox_mini_coin_glow_5
+  rotate: false
+  xy: 392, 7
+  size: 139, 78
+  orig: 140, 80
+  offset: 1, 0
+  index: -1
+chestbox_mini_gold_shine
+  rotate: true
+  xy: 401, 85
+  size: 460, 180
+  orig: 460, 180
+  offset: 0, 0
+  index: -1
+chestbox_mini_ruby_1
+  rotate: false
+  xy: 864, 97
+  size: 53, 99
+  orig: 70, 115
+  offset: 9, 9
+  index: -1
+chestbox_mini_ruby_2
+  rotate: true
+  xy: 736, 50
+  size: 50, 92
+  orig: 70, 115
+  offset: 13, 10
+  index: -1
+chestbox_mini_ruby_3
+  rotate: true
+  xy: 658, 30
+  size: 70, 78
+  orig: 70, 78
+  offset: 0, 0
+  index: -1
+chestbox_mini_shine
+  rotate: true
+  xy: 781, 196
+  size: 349, 130
+  orig: 400, 150
+  offset: 29, 18
+  index: -1
+chestbox_mini_top
+  rotate: false
+  xy: 0, 123
+  size: 387, 200
+  orig: 400, 200
+  offset: 12, 0
+  index: -1
+chestbox_mini_top_glow
+  rotate: true
+  xy: 581, 158
+  size: 387, 200
+  orig: 400, 200
+  offset: 12, 0
+  index: -1
+common_sparkle
+  rotate: false
+  xy: 152, 39
+  size: 87, 84
+  orig: 157, 158
+  offset: 39, 36
+  index: -1
+line_shine
+  rotate: false
+  xy: 239, 67
+  size: 153, 56
+  orig: 179, 56
+  offset: 10, 0
+  index: -1

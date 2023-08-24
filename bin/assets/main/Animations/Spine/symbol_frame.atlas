@@ -1,0 +1,14 @@
+symbol_frame.png
+size:437,221
+filter:Linear,Linear
+frame
+bounds:423,14,205,12
+offsets:1,1,207,14
+rotate:90
+frame_size
+bounds:263,16,203,158
+offsets:1,1,205,160
+rotate:90
+symbol_pirat_glow
+bounds:2,2,259,217
+offsets:9,8,277,234

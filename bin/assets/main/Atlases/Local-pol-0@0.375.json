@@ -1,0 +1,28 @@
+{"frames": {
+
+"paytable_pol":
+{
+	"frame": {"x":1,"y":1,"w":184,"h":36},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":184,"h":36},
+	"sourceSize": {"w":184,"h":36}
+},
+"win_up_pol":
+{
+	"frame": {"x":187,"y":1,"w":157,"h":36},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":4,"w":157,"h":36},
+	"sourceSize": {"w":157,"h":44}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.1",
+	"image": "Local-pol-0@0.375.png",
+	"format": "RGBA8888",
+	"size": {"w":345,"h":38},
+	"scale": "0.25",
+	"smartupdate": "$TexturePacker:SmartUpdate:b025a4f59d9daeda620f60dedca00988:bb6c5024a3a3718cf359935482427976:4b50ab48e29c4a8ea71163503113cc1d$"
+}
+}

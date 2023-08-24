@@ -1,0 +1,33 @@
+Tournament
+На спин игрока может прийти пакет TOURNAMENT_WIN - пакет о зачислении выигрыша на tournament.
+{
+    "place": 0,
+    "name": "Happy",
+    "amount": 500.00,
+    "kind": "TOURNAMENT_WIN",
+    "id": -1
+}
+Для получения информации по текущему tournament игрока необходимо использовать
+networkManager.tournamentInfo(). Ответ:
+{
+    "tournament": {
+        "current": {
+            "dateStart": 1660205172656,
+            "dateEnd": 1660826112656,
+            "minBet": 0.20,
+            "rate": 10,
+            "share": 1500,
+            "places": [{
+                "name": "super",
+                "balance": 15.00
+            }, {
+                "name": "toker",
+                "balance": 11.00
+            }],
+            "rewards": [500, 400, 300, 200, 100]
+        },
+        "pendingWins": true
+    },
+    "id": 261,
+    "kind": "TOURNAMENT_INFO"
+}

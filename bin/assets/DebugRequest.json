@@ -1,0 +1,1312 @@
+{
+  "3lines-requests": [
+    {
+      "subType": "SPIN",
+      "balance": 299950,
+      "creditType": 100,
+      "minBet": 0,
+      "maxBet": 0,
+      "lines": null,
+      "reels": null,
+      "possLines": null,
+      "result": {
+        "total": 310,
+        "stops": [
+          38,
+          38,
+          38
+        ],
+        "holds": [],
+        "wons": [
+          {
+            "symbol": "A",
+            "count": 3,
+            "offset": 0,
+            "amount": 40,
+            "lineNum": 0,
+            "multi": 1,
+            "indexes": null,
+            "freeSpins": 0,
+            "points": null,
+            "wilds": null
+          },
+          {
+            "symbol": "F",
+            "count": 3,
+            "offset": 0,
+            "amount": 200,
+            "lineNum": 1,
+            "multi": 1,
+            "indexes": null,
+            "freeSpins": 0,
+            "points": null,
+            "wilds": null
+          },
+          {
+            "symbol": "D",
+            "count": 3,
+            "offset": 0,
+            "amount": 70,
+            "lineNum": 2,
+            "multi": 1,
+            "indexes": null,
+            "freeSpins": 0,
+            "points": null,
+            "wilds": null
+          }
+        ],
+        "choice": null,
+        "cards": [
+          {
+            "symbol": "D",
+            "color": "r",
+            "suit": "D",
+            "symbolString": "D",
+            "red": true,
+            "black": false
+          },
+          {
+            "symbol": "H",
+            "color": "r",
+            "suit": "H",
+            "symbolString": "H",
+            "red": true,
+            "black": false
+          },
+          {
+            "symbol": "C",
+            "color": "b",
+            "suit": "C",
+            "symbolString": "C",
+            "red": false,
+            "black": true
+          },
+          {
+            "symbol": "D",
+            "color": "r",
+            "suit": "D",
+            "symbolString": "D",
+            "red": true,
+            "black": false
+          },
+          {
+            "symbol": "H",
+            "color": "r",
+            "suit": "H",
+            "symbolString": "H",
+            "red": true,
+            "black": false
+          },
+          {
+            "symbol": "H",
+            "color": "r",
+            "suit": "H",
+            "symbolString": "H",
+            "red": true,
+            "black": false
+          },
+          {
+            "symbol": "S",
+            "color": "b",
+            "suit": "S",
+            "symbolString": "S",
+            "red": false,
+            "black": true
+          },
+          {
+            "symbol": "S",
+            "color": "b",
+            "suit": "S",
+            "symbolString": "S",
+            "red": false,
+            "black": true
+          },
+          {
+            "symbol": "C",
+            "color": "b",
+            "suit": "C",
+            "symbolString": "C",
+            "red": false,
+            "black": true
+          },
+          {
+            "symbol": "S",
+            "color": "b",
+            "suit": "S",
+            "symbolString": "S",
+            "red": false,
+            "black": true
+          }
+        ],
+        "gambleCount": 5,
+        "special": {
+          "feature": "?",
+          "multi": 1
+        },
+        "extraData": null,
+        "grid": null,
+        "custom": null,
+        "categories": null
+      },
+      "possBets": null,
+      "possDenoms": null,
+      "possReels": null,
+      "currLines": 5,
+      "currBet": 10,
+      "currDenom": 1,
+      "free": {
+        "initial": 0,
+        "left": 0,
+        "done": 0,
+        "totalWin": 0,
+        "symbol": "?",
+        "category": 0,
+        "last": false,
+        "catch": false
+      },
+      "wins": null,
+      "nextAct": "COLLECT",
+      "category": 0,
+      "roundId": 131443,
+      "roundType": "SIMPLE",
+      "roundMultiplier": 1,
+      "promo": {
+        "amount": 0,
+        "multi": 1
+      },
+      "currReels": 3,
+      "kind": "GAME_DATA",
+      "id": 6
+    },
+    {
+      "subType": "COLLECT",
+      "balance": 300260,
+      "creditType": 100,
+      "minBet": 0,
+      "maxBet": 0,
+      "lines": null,
+      "reels": null,
+      "possLines": null,
+      "result": {
+        "total": 310,
+        "stops": [
+          38,
+          38,
+          38
+        ],
+        "holds": [],
+        "wons": [
+          {
+            "symbol": "A",
+            "count": 3,
+            "offset": 0,
+            "amount": 40,
+            "lineNum": 0,
+            "multi": 1,
+            "indexes": null,
+            "freeSpins": 0,
+            "points": null,
+            "wilds": null
+          },
+          {
+            "symbol": "F",
+            "count": 3,
+            "offset": 0,
+            "amount": 200,
+            "lineNum": 1,
+            "multi": 1,
+            "indexes": null,
+            "freeSpins": 0,
+            "points": null,
+            "wilds": null
+          },
+          {
+            "symbol": "D",
+            "count": 3,
+            "offset": 0,
+            "amount": 70,
+            "lineNum": 2,
+            "multi": 1,
+            "indexes": null,
+            "freeSpins": 0,
+            "points": null,
+            "wilds": null
+          }
+        ],
+        "choice": null,
+        "cards": [
+          {
+            "symbol": "D",
+            "color": "r",
+            "suit": "D",
+            "symbolString": "D",
+            "red": true,
+            "black": false
+          },
+          {
+            "symbol": "H",
+            "color": "r",
+            "suit": "H",
+            "symbolString": "H",
+            "red": true,
+            "black": false
+          },
+          {
+            "symbol": "C",
+            "color": "b",
+            "suit": "C",
+            "symbolString": "C",
+            "red": false,
+            "black": true
+          },
+          {
+            "symbol": "D",
+            "color": "r",
+            "suit": "D",
+            "symbolString": "D",
+            "red": true,
+            "black": false
+          },
+          {
+            "symbol": "H",
+            "color": "r",
+            "suit": "H",
+            "symbolString": "H",
+            "red": true,
+            "black": false
+          },
+          {
+            "symbol": "H",
+            "color": "r",
+            "suit": "H",
+            "symbolString": "H",
+            "red": true,
+            "black": false
+          },
+          {
+            "symbol": "S",
+            "color": "b",
+            "suit": "S",
+            "symbolString": "S",
+            "red": false,
+            "black": true
+          },
+          {
+            "symbol": "S",
+            "color": "b",
+            "suit": "S",
+            "symbolString": "S",
+            "red": false,
+            "black": true
+          },
+          {
+            "symbol": "C",
+            "color": "b",
+            "suit": "C",
+            "symbolString": "C",
+            "red": false,
+            "black": true
+          },
+          {
+            "symbol": "S",
+            "color": "b",
+            "suit": "S",
+            "symbolString": "S",
+            "red": false,
+            "black": true
+          }
+        ],
+        "gambleCount": 5,
+        "special": {
+          "feature": "?",
+          "multi": 1
+        },
+        "extraData": null,
+        "grid": null,
+        "custom": null,
+        "categories": null
+      },
+      "possBets": null,
+      "possDenoms": null,
+      "possReels": null,
+      "currLines": 5,
+      "currBet": 10,
+      "currDenom": 1,
+      "free": {
+        "initial": 0,
+        "left": 0,
+        "done": 0,
+        "totalWin": 0,
+        "symbol": "?",
+        "category": 0,
+        "last": false,
+        "catch": false
+      },
+      "wins": null,
+      "nextAct": "BET",
+      "category": 0,
+      "roundId": 131443,
+      "roundType": "SIMPLE",
+      "roundMultiplier": 1,
+      "promo": {
+        "amount": 0,
+        "multi": 1
+      },
+      "currReels": 3,
+      "kind": "GAME_DATA",
+      "id": 6
+    }
+  ],
+  "2lines-requests": [
+    {
+      "subType": "SPIN",
+      "balance": 297650,
+      "creditType": 100,
+      "minBet": 0,
+      "maxBet": 0,
+      "lines": null,
+      "reels": null,
+      "possLines": null,
+      "result": {
+        "total": 480,
+        "stops": [
+          46,
+          46,
+          52
+        ],
+        "holds": [],
+        "wons": [
+          {
+            "symbol": "C",
+            "count": 3,
+            "offset": 0,
+            "amount": 240,
+            "lineNum": 2,
+            "multi": 4,
+            "indexes": null,
+            "freeSpins": 0,
+            "points": null,
+            "wilds": null
+          },
+          {
+            "symbol": "C",
+            "count": 3,
+            "offset": 0,
+            "amount": 240,
+            "lineNum": 4,
+            "multi": 4,
+            "indexes": null,
+            "freeSpins": 0,
+            "points": null,
+            "wilds": null
+          }
+        ],
+        "choice": null,
+        "cards": [
+          {
+            "symbol": "H",
+            "color": "r",
+            "suit": "H",
+            "symbolString": "H",
+            "red": true,
+            "black": false
+          },
+          {
+            "symbol": "H",
+            "color": "r",
+            "suit": "H",
+            "symbolString": "H",
+            "red": true,
+            "black": false
+          },
+          {
+            "symbol": "D",
+            "color": "r",
+            "suit": "D",
+            "symbolString": "D",
+            "red": true,
+            "black": false
+          },
+          {
+            "symbol": "S",
+            "color": "b",
+            "suit": "S",
+            "symbolString": "S",
+            "red": false,
+            "black": true
+          },
+          {
+            "symbol": "H",
+            "color": "r",
+            "suit": "H",
+            "symbolString": "H",
+            "red": true,
+            "black": false
+          },
+          {
+            "symbol": "H",
+            "color": "r",
+            "suit": "H",
+            "symbolString": "H",
+            "red": true,
+            "black": false
+          },
+          {
+            "symbol": "S",
+            "color": "b",
+            "suit": "S",
+            "symbolString": "S",
+            "red": false,
+            "black": true
+          },
+          {
+            "symbol": "H",
+            "color": "r",
+            "suit": "H",
+            "symbolString": "H",
+            "red": true,
+            "black": false
+          },
+          {
+            "symbol": "S",
+            "color": "b",
+            "suit": "S",
+            "symbolString": "S",
+            "red": false,
+            "black": true
+          },
+          {
+            "symbol": "H",
+            "color": "r",
+            "suit": "H",
+            "symbolString": "H",
+            "red": true,
+            "black": false
+          }
+        ],
+        "gambleCount": 5,
+        "special": {
+          "feature": "?",
+          "multi": 4
+        },
+        "extraData": null,
+        "grid": null,
+        "custom": null,
+        "categories": null
+      },
+      "possBets": null,
+      "possDenoms": null,
+      "possReels": null,
+      "currLines": 5,
+      "currBet": 10,
+      "currDenom": 1,
+      "free": {
+        "initial": 0,
+        "left": 0,
+        "done": 0,
+        "totalWin": 0,
+        "symbol": "?",
+        "category": 0,
+        "last": false,
+        "catch": false
+      },
+      "wins": null,
+      "nextAct": "COLLECT",
+      "category": 0,
+      "roundId": 504613,
+      "roundType": "SIMPLE",
+      "roundMultiplier": 1,
+      "promo": {
+        "amount": 0,
+        "multi": 1
+      },
+      "currReels": 3,
+      "kind": "GAME_DATA",
+      "id": 6
+    },
+    {
+      "subType": "COLLECT",
+      "balance": 298130,
+      "creditType": 100,
+      "minBet": 0,
+      "maxBet": 0,
+      "lines": null,
+      "reels": null,
+      "possLines": null,
+      "result": {
+        "total": 480,
+        "stops": [
+          46,
+          46,
+          52
+        ],
+        "holds": [],
+        "wons": [
+          {
+            "symbol": "C",
+            "count": 3,
+            "offset": 0,
+            "amount": 240,
+            "lineNum": 2,
+            "multi": 4,
+            "indexes": null,
+            "freeSpins": 0,
+            "points": null,
+            "wilds": null
+          },
+          {
+            "symbol": "C",
+            "count": 3,
+            "offset": 0,
+            "amount": 240,
+            "lineNum": 4,
+            "multi": 4,
+            "indexes": null,
+            "freeSpins": 0,
+            "points": null,
+            "wilds": null
+          }
+        ],
+        "choice": null,
+        "cards": [
+          {
+            "symbol": "H",
+            "color": "r",
+            "suit": "H",
+            "symbolString": "H",
+            "red": true,
+            "black": false
+          },
+          {
+            "symbol": "H",
+            "color": "r",
+            "suit": "H",
+            "symbolString": "H",
+            "red": true,
+            "black": false
+          },
+          {
+            "symbol": "D",
+            "color": "r",
+            "suit": "D",
+            "symbolString": "D",
+            "red": true,
+            "black": false
+          },
+          {
+            "symbol": "S",
+            "color": "b",
+            "suit": "S",
+            "symbolString": "S",
+            "red": false,
+            "black": true
+          },
+          {
+            "symbol": "H",
+            "color": "r",
+            "suit": "H",
+            "symbolString": "H",
+            "red": true,
+            "black": false
+          },
+          {
+            "symbol": "H",
+            "color": "r",
+            "suit": "H",
+            "symbolString": "H",
+            "red": true,
+            "black": false
+          },
+          {
+            "symbol": "S",
+            "color": "b",
+            "suit": "S",
+            "symbolString": "S",
+            "red": false,
+            "black": true
+          },
+          {
+            "symbol": "H",
+            "color": "r",
+            "suit": "H",
+            "symbolString": "H",
+            "red": true,
+            "black": false
+          },
+          {
+            "symbol": "S",
+            "color": "b",
+            "suit": "S",
+            "symbolString": "S",
+            "red": false,
+            "black": true
+          },
+          {
+            "symbol": "H",
+            "color": "r",
+            "suit": "H",
+            "symbolString": "H",
+            "red": true,
+            "black": false
+          }
+        ],
+        "gambleCount": 5,
+        "special": {
+          "feature": "?",
+          "multi": 4
+        },
+        "extraData": null,
+        "grid": null,
+        "custom": null,
+        "categories": null
+      },
+      "possBets": null,
+      "possDenoms": null,
+      "possReels": null,
+      "currLines": 5,
+      "currBet": 10,
+      "currDenom": 1,
+      "free": {
+        "initial": 0,
+        "left": 0,
+        "done": 0,
+        "totalWin": 0,
+        "symbol": "?",
+        "category": 0,
+        "last": false,
+        "catch": false
+      },
+      "wins": null,
+      "nextAct": "BET",
+      "category": 0,
+      "roundId": 504613,
+      "roundType": "SIMPLE",
+      "roundMultiplier": 1,
+      "promo": {
+        "amount": 0,
+        "multi": 1
+      },
+      "currReels": 3,
+      "kind": "GAME_DATA",
+      "id": 6
+    }
+  ],
+  "wild-requests":[
+    {
+      "subType": "SPIN",
+      "balance": 5793909,
+      "creditType": 100,
+      "minBet": 0,
+      "maxBet": 0,
+      "lines": null,
+      "reels": null,
+      "possLines": null,
+      "result": {
+        "total": 1200,
+        "stops": [
+          38,
+          48,
+          0
+        ],
+        "holds": [],
+        "wons": [
+          {
+            "symbol": "A",
+            "count": 3,
+            "offset": 0,
+            "amount": 1200,
+            "lineNum": 0,
+            "multi": 3,
+            "indexes": null,
+            "freeSpins": 0,
+            "points": null,
+            "wilds": null
+          }
+        ],
+        "choice": null,
+        "cards": [
+          {
+            "symbol": "S",
+            "color": "b",
+            "suit": "S",
+            "symbolString": "S",
+            "red": false,
+            "black": true
+          },
+          {
+            "symbol": "C",
+            "color": "b",
+            "suit": "C",
+            "symbolString": "C",
+            "red": false,
+            "black": true
+          },
+          {
+            "symbol": "D",
+            "color": "r",
+            "suit": "D",
+            "symbolString": "D",
+            "red": true,
+            "black": false
+          },
+          {
+            "symbol": "C",
+            "color": "b",
+            "suit": "C",
+            "symbolString": "C",
+            "red": false,
+            "black": true
+          },
+          {
+            "symbol": "D",
+            "color": "r",
+            "suit": "D",
+            "symbolString": "D",
+            "red": true,
+            "black": false
+          },
+          {
+            "symbol": "S",
+            "color": "b",
+            "suit": "S",
+            "symbolString": "S",
+            "red": false,
+            "black": true
+          },
+          {
+            "symbol": "D",
+            "color": "r",
+            "suit": "D",
+            "symbolString": "D",
+            "red": true,
+            "black": false
+          },
+          {
+            "symbol": "H",
+            "color": "r",
+            "suit": "H",
+            "symbolString": "H",
+            "red": true,
+            "black": false
+          },
+          {
+            "symbol": "C",
+            "color": "b",
+            "suit": "C",
+            "symbolString": "C",
+            "red": false,
+            "black": true
+          },
+          {
+            "symbol": "D",
+            "color": "r",
+            "suit": "D",
+            "symbolString": "D",
+            "red": true,
+            "black": false
+          }
+        ],
+        "gambleCount": 5,
+        "special": {
+          "feature": "W",
+          "multi": 3
+        },
+        "extraData": null,
+        "grid": null,
+        "custom": null,
+        "categories": null
+      },
+      "possBets": null,
+      "possDenoms": null,
+      "possReels": null,
+      "currLines": 5,
+      "currBet": 20,
+      "currDenom": 5,
+      "free": {
+        "initial": 1,
+        "left": 1,
+        "done": 0,
+        "totalWin": 1200,
+        "symbol": "?",
+        "category": 1,
+        "last": false,
+        "catch": true
+      },
+      "wins": null,
+      "nextAct": "COLLECT",
+      "category": 0,
+      "roundId": 285265883,
+      "roundType": "SIMPLE",
+      "roundMultiplier": 1,
+      "promo": {
+        "amount": 0,
+        "multi": 1
+      },
+      "currReels": 3,
+      "kind": "GAME_DATA",
+      "id": 6
+    },
+    {
+      "subType": "COLLECT",
+      "balance": 5803029,
+      "creditType": 100,
+      "minBet": 0,
+      "maxBet": 0,
+      "lines": null,
+      "reels": null,
+      "possLines": null,
+      "result": {
+        "total": 1200,
+        "stops": [
+          38,
+          48,
+          0
+        ],
+        "holds": [],
+        "wons": [
+          {
+            "symbol": "A",
+            "count": 3,
+            "offset": 0,
+            "amount": 1200,
+            "lineNum": 0,
+            "multi": 3,
+            "indexes": null,
+            "freeSpins": 0,
+            "points": null,
+            "wilds": null
+          }
+        ],
+        "choice": null,
+        "cards": [
+          {
+            "symbol": "S",
+            "color": "b",
+            "suit": "S",
+            "symbolString": "S",
+            "red": false,
+            "black": true
+          },
+          {
+            "symbol": "C",
+            "color": "b",
+            "suit": "C",
+            "symbolString": "C",
+            "red": false,
+            "black": true
+          },
+          {
+            "symbol": "D",
+            "color": "r",
+            "suit": "D",
+            "symbolString": "D",
+            "red": true,
+            "black": false
+          },
+          {
+            "symbol": "C",
+            "color": "b",
+            "suit": "C",
+            "symbolString": "C",
+            "red": false,
+            "black": true
+          },
+          {
+            "symbol": "D",
+            "color": "r",
+            "suit": "D",
+            "symbolString": "D",
+            "red": true,
+            "black": false
+          },
+          {
+            "symbol": "S",
+            "color": "b",
+            "suit": "S",
+            "symbolString": "S",
+            "red": false,
+            "black": true
+          },
+          {
+            "symbol": "D",
+            "color": "r",
+            "suit": "D",
+            "symbolString": "D",
+            "red": true,
+            "black": false
+          },
+          {
+            "symbol": "H",
+            "color": "r",
+            "suit": "H",
+            "symbolString": "H",
+            "red": true,
+            "black": false
+          },
+          {
+            "symbol": "C",
+            "color": "b",
+            "suit": "C",
+            "symbolString": "C",
+            "red": false,
+            "black": true
+          },
+          {
+            "symbol": "D",
+            "color": "r",
+            "suit": "D",
+            "symbolString": "D",
+            "red": true,
+            "black": false
+          }
+        ],
+        "gambleCount": 5,
+        "special": {
+          "feature": "W",
+          "multi": 3
+        },
+        "extraData": null,
+        "grid": null,
+        "custom": null,
+        "categories": null
+      },
+      "possBets": null,
+      "possDenoms": null,
+      "possReels": null,
+      "currLines": 5,
+      "currBet": 20,
+      "currDenom": 5,
+      "free": {
+        "initial": 1,
+        "left": 1,
+        "done": 0,
+        "totalWin": 1200,
+        "symbol": "?",
+        "category": 1,
+        "last": false,
+        "catch": true
+      },
+      "wins": null,
+      "nextAct": "FREE_SPIN",
+      "category": 0,
+      "roundId": 285265883,
+      "roundType": "SIMPLE",
+      "roundMultiplier": 1,
+      "promo": {
+        "amount": 0,
+        "multi": 1
+      },
+      "currReels": 3,
+      "kind": "GAME_DATA",
+      "id": 6
+    },
+    {
+      "subType": "FREE_SPIN",
+      "balance": 5803029,
+      "creditType": 100,
+      "minBet": 0,
+      "maxBet": 0,
+      "lines": null,
+      "reels": null,
+      "possLines": null,
+      "result": {
+        "total": 500,
+        "stops": [
+          18,
+          3,
+          31
+        ],
+        "holds": [],
+        "wons": [
+          {
+            "symbol": "B",
+            "count": 3,
+            "offset": 0,
+            "amount": 500,
+            "lineNum": 0,
+            "multi": 1,
+            "indexes": null,
+            "freeSpins": 0,
+            "points": null,
+            "wilds": null
+          }
+        ],
+        "choice": null,
+        "cards": [
+          {
+            "symbol": "S",
+            "color": "b",
+            "suit": "S",
+            "symbolString": "S",
+            "red": false,
+            "black": true
+          },
+          {
+            "symbol": "C",
+            "color": "b",
+            "suit": "C",
+            "symbolString": "C",
+            "red": false,
+            "black": true
+          },
+          {
+            "symbol": "D",
+            "color": "r",
+            "suit": "D",
+            "symbolString": "D",
+            "red": true,
+            "black": false
+          },
+          {
+            "symbol": "C",
+            "color": "b",
+            "suit": "C",
+            "symbolString": "C",
+            "red": false,
+            "black": true
+          },
+          {
+            "symbol": "D",
+            "color": "r",
+            "suit": "D",
+            "symbolString": "D",
+            "red": true,
+            "black": false
+          },
+          {
+            "symbol": "S",
+            "color": "b",
+            "suit": "S",
+            "symbolString": "S",
+            "red": false,
+            "black": true
+          },
+          {
+            "symbol": "D",
+            "color": "r",
+            "suit": "D",
+            "symbolString": "D",
+            "red": true,
+            "black": false
+          },
+          {
+            "symbol": "H",
+            "color": "r",
+            "suit": "H",
+            "symbolString": "H",
+            "red": true,
+            "black": false
+          },
+          {
+            "symbol": "C",
+            "color": "b",
+            "suit": "C",
+            "symbolString": "C",
+            "red": false,
+            "black": true
+          },
+          {
+            "symbol": "D",
+            "color": "r",
+            "suit": "D",
+            "symbolString": "D",
+            "red": true,
+            "black": false
+          }
+        ],
+        "gambleCount": 5,
+        "special": {
+          "feature": "?",
+          "multi": 1
+        },
+        "extraData": null,
+        "grid": null,
+        "custom": null,
+        "categories": null
+      },
+      "possBets": null,
+      "possDenoms": null,
+      "possReels": null,
+      "currLines": 5,
+      "currBet": 20,
+      "currDenom": 5,
+      "free": {
+        "initial": 1,
+        "left": 0,
+        "done": 1,
+        "totalWin": 1700,
+        "symbol": "?",
+        "category": 1,
+        "last": true,
+        "catch": false
+      },
+      "wins": null,
+      "nextAct": "COLLECT",
+      "category": 1,
+      "roundId": 285265883,
+      "roundType": "SIMPLE",
+      "roundMultiplier": 1,
+      "promo": {
+        "amount": 0,
+        "multi": 1
+      },
+      "currReels": 3,
+      "kind": "GAME_DATA",
+      "id": 6
+    },
+    {
+      "subType": "COLLECT",
+      "balance": 5803529,
+      "creditType": 100,
+      "minBet": 0,
+      "maxBet": 0,
+      "lines": null,
+      "reels": null,
+      "possLines": null,
+      "result": {
+        "total": 500,
+        "stops": [
+          18,
+          3,
+          31
+        ],
+        "holds": [],
+        "wons": [
+          {
+            "symbol": "B",
+            "count": 3,
+            "offset": 0,
+            "amount": 500,
+            "lineNum": 0,
+            "multi": 1,
+            "indexes": null,
+            "freeSpins": 0,
+            "points": null,
+            "wilds": null
+          }
+        ],
+        "choice": null,
+        "cards": [
+          {
+            "symbol": "S",
+            "color": "b",
+            "suit": "S",
+            "symbolString": "S",
+            "red": false,
+            "black": true
+          },
+          {
+            "symbol": "C",
+            "color": "b",
+            "suit": "C",
+            "symbolString": "C",
+            "red": false,
+            "black": true
+          },
+          {
+            "symbol": "D",
+            "color": "r",
+            "suit": "D",
+            "symbolString": "D",
+            "red": true,
+            "black": false
+          },
+          {
+            "symbol": "C",
+            "color": "b",
+            "suit": "C",
+            "symbolString": "C",
+            "red": false,
+            "black": true
+          },
+          {
+            "symbol": "D",
+            "color": "r",
+            "suit": "D",
+            "symbolString": "D",
+            "red": true,
+            "black": false
+          },
+          {
+            "symbol": "S",
+            "color": "b",
+            "suit": "S",
+            "symbolString": "S",
+            "red": false,
+            "black": true
+          },
+          {
+            "symbol": "D",
+            "color": "r",
+            "suit": "D",
+            "symbolString": "D",
+            "red": true,
+            "black": false
+          },
+          {
+            "symbol": "H",
+            "color": "r",
+            "suit": "H",
+            "symbolString": "H",
+            "red": true,
+            "black": false
+          },
+          {
+            "symbol": "C",
+            "color": "b",
+            "suit": "C",
+            "symbolString": "C",
+            "red": false,
+            "black": true
+          },
+          {
+            "symbol": "D",
+            "color": "r",
+            "suit": "D",
+            "symbolString": "D",
+            "red": true,
+            "black": false
+          }
+        ],
+        "gambleCount": 5,
+        "special": {
+          "feature": "?",
+          "multi": 1
+        },
+        "extraData": null,
+        "grid": null,
+        "custom": null,
+        "categories": null
+      },
+      "possBets": null,
+      "possDenoms": null,
+      "possReels": null,
+      "currLines": 5,
+      "currBet": 20,
+      "currDenom": 5,
+      "free": {
+        "initial": 1,
+        "left": 0,
+        "done": 1,
+        "totalWin": 1700,
+        "symbol": "?",
+        "category": 1,
+        "last": true,
+        "catch": false
+      },
+      "wins": null,
+      "nextAct": "BET",
+      "category": 1,
+      "roundId": 285265883,
+      "roundType": "SIMPLE",
+      "roundMultiplier": 1,
+      "promo": {
+        "amount": 0,
+        "multi": 1
+      },
+      "currReels": 3,
+      "kind": "GAME_DATA",
+      "id": 6
+    }
+  ]
+}

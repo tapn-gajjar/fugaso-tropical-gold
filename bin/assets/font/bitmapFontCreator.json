@@ -1,0 +1,15 @@
+{
+  "big_win_font":{
+    "commaOffset":0,
+    "dotOffset":165,
+    "spaceWidth":0,
+    "commaXOffset":0,
+    "dotXOffset":0,
+    "-1":{
+      "-xMulti":0.5,
+      "-yMulti":0,
+      "-xOffset":0,
+      "-yOffset":0
+    }
+  }
+}

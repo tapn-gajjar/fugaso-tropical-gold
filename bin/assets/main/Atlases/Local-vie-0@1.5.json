@@ -1,0 +1,36 @@
+{"frames": {
+
+"paytable_vie":
+{
+	"frame": {"x":1113,"y":1,"w":797,"h":182},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":797,"h":182},
+	"sourceSize": {"w":797,"h":182}
+},
+"win_up_free_vie":
+{
+	"frame": {"x":1,"y":1,"w":554,"h":200},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":30,"y":0,"w":554,"h":200},
+	"sourceSize": {"w":614,"h":240}
+},
+"win_up_vie":
+{
+	"frame": {"x":557,"y":1,"w":554,"h":190},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":30,"y":0,"w":554,"h":190},
+	"sourceSize": {"w":614,"h":239}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.1",
+	"image": "Local-vie-0@1.5.png",
+	"format": "RGBA8888",
+	"size": {"w":1911,"h":202},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:a8f8dbc3a1b01688ccb2ff95fe4e50aa:d32652315b6b4df4a0da004ca7aabc5a:d5076fa54a5b6bec0b1c29a408a345bb$"
+}
+}

@@ -1,0 +1,12 @@
+{
+  "render":{
+    "setting_line":{
+      "alpha":1, "typeDraw":5,
+      "linePath":[{"x":402, "y":0}],
+      "lineStyle":{"width":3, "color":"0xFFFFFF", "alpha":0.3},
+      "type":"graphic", "debug":0
+    }
+  },
+  "m_render":{
+  }
+}

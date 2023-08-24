@@ -1,0 +1,311 @@
+{
+  "load":[
+    {"loader":"loadAtlas", "deviceFolder":true, "resolution":true, "name":"Resources-0", "file":"Atlases/", "noWebp":true},
+    {"loader":"loadAtlas", "deviceFolder":true, "resolution":true, "name":"Resources_webp-0", "file":"Atlases/"},
+    {"loader":"loadAtlas", "deviceFolder":true, "resolution":true, "name":"UI-0", "file":"Atlases/"},
+    {
+      "loader":"loadAtlas", "deviceFolder":false, "resolution":true, "name":"Local-eng-0", "file":"assets/main/Atlases/",
+      "locMap":{
+        "deu":"Local-deu-0",
+        "esp":"Local-esp-0",
+        "fra":"Local-fra-0",
+        "gre":"Local-gre-0",
+        "hin":"Local-hin-0",
+        "ind":"Local-ind-0",
+        "ita":"Local-ita-0",
+        "jpn":"Local-jpn-0",
+        "kor":"Local-kor-0",
+        "nor":"Local-nor-0",
+        "pol":"Local-pol-0",
+        "prt":"Local-prt-0",
+        "ron":"Local-ron-0",
+        "rus":"Local-rus-0",
+        "swe":"Local-swe-0",
+        "tha":"Local-tha-0",
+        "tur":"Local-tur-0",
+        "ukr":"Local-ukr-0",
+        "vie":"Local-vie-0",
+        "zh_cn":"Local-zh_cn-0",
+        "zh_tw":"Local-zh_tw-0"
+      }
+    },
+    {"loader":"loadAtlas", "name":"coins", "file":"assets/main/Atlases/"},
+
+    {"loader":"loadImage", "deviceFolder":false, "name":"fugaso_logo.png", "file":"assets/main/Single/"},
+    {"loader":"loadImage", "deviceFolder":false, "name":"pirat_black.png", "file":"assets/main/Single/"},
+
+    {"loader":"loadImage", "deviceFolder":false, "name":"Shape", "file":"assets/main/Single/", "exc":".png"},
+    {"loader":"loadImage", "deviceFolder":false, "name":"Shape_2", "file":"assets/main/Single/", "exc":".png"},
+
+    {"loader":"loadImage", "deviceFolder":false, "name":"action_bg.png", "file":"assets/main/Single/", "exc":".png"},
+
+    {"loader":"loadSpine", "jpContent":true, "name":"chestbox_mini", "file":"assets/main/Animations/Spine/"},
+    {"loader":"loadSpine", "jpContent":true, "name":"chestbox_win", "file":"assets/main/Animations/Spine/"},
+    {"loader":"loadSpine", "jpContent":true, "name":"d2d_jackpot", "file":"assets/main/Animations/Spine/"},
+
+    {"loader":"loadSpine", "name":"background", "file":"assets/main/Animations/Spine/"},
+    {"loader":"loadSpine", "name":"pirat_intro", "file":"assets/main/Animations/Spine/"},
+    {"loader":"loadSpine", "name":"frame_logo", "file":"assets/main/Animations/Spine/"},
+    {"loader":"loadSpine", "name":"bag", "file":"assets/main/Animations/Spine/"},
+    {"loader":"loadSpine", "name":"pirat_symbol", "file":"assets/main/Animations/Spine/"},
+    {"loader":"loadSpine", "name":"symbol_tropical_gold", "file":"assets/main/Animations/Spine/"},
+    {"loader":"loadSpine", "name":"symbols", "file":"assets/main/Animations/Spine/"},
+    {"loader":"loadSpine", "name":"symbol_frame", "file":"assets/main/Animations/Spine/"},
+    {"loader":"loadSpine", "name":"pirat_symbol_bigwin", "file":"assets/main/Animations/Spine/"},
+    {"loader":"loadSpine", "name":"frame", "file":"assets/main/Animations/Spine/"},
+    {"loader":"loadSpine", "name":"pirat_win", "file":"assets/main/Animations/Spine/"},
+
+    {"loader":"loadAudioSprite", "name":"sounds", "file":"assets/Sounds/AudioSprite/sounds"},
+
+    {
+      "loader":"loadBitmapFont", "name":"counter_font", "file":"assets/font/",
+      "locMap":{
+        "gre, pol, vie":"counter_font_gre",
+        "jpn":"counter_font_jpn",
+        "kor":"counter_font_kor",
+        "ukr,rus":"counter_font_ukr",
+        "tha":"counter_font_tha",        
+        "zh_cn,zh_tw":"counter_font_zh_cn"
+      }
+    },
+    {
+      "loader":"loadBitmapFont", "name":"counter_number_font", "file":"assets/font/"
+    },
+    {
+      "loader":"loadBitmapFont", "name":"intro_btn_font", "file":"assets/font/",
+      "locMap":{
+        "gre,pol,ron,rus,tur,ukr,vie":"intro_btn_font_gre",
+        "jpn":"intro_btn_font_jpn",
+        "kor":"intro_btn_font_kor",
+        "tha":"intro_btn_font_tha",
+        "zh_cn,zh_tw":"intro_btn_font_zh_cn"
+      },
+      "dyMap":{
+        "tha":17,
+        "jpn":15,
+        "kor":20,
+        "zh_cn":20,
+        "zh_tw":20
+      }
+    },
+    {
+      "loader":"loadBitmapFont", "name":"intro_1_font", "file":"assets/font/",
+      "locMap":{
+        "gre,pol,ron,rus,tur,ukr,vie":"intro_1_font_gre",
+        "jpn":"intro_1_font_jpn",
+        "kor":"intro_1_font_kor",
+        "tha":"intro_1_font_tha",
+        "zh_cn,zh_tw":"intro_1_font_zh_cn"
+      }
+    },
+    {
+      "loader":"loadBitmapFont", "name":"menu_font", "file":"assets/font/",
+      "locMap":{
+        "gre,pol,ron,vie":"menu_font_gre",
+        "jpn":"menu_font_jpn",
+        "kor":"menu_font_kor",
+        "tha":"menu_font_tha",
+        "zh_cn,zh_tw":"menu_font_zh_cn"
+      }
+    },
+    {
+      "loader":"loadBitmapFont", "name":"paytable_1_font", "file":"assets/font/",
+      "locMap":{
+        "gre,pol,ron,rus,tur,ukr,vie":"paytable_1_font_gre",
+        "jpn":"paytable_1_font_jpn",
+        "kor":"paytable_1_font_kor",
+        "tha":"paytable_1_font_tha",
+        "zh_cn,zh_tw":"paytable_1_font_zh_cn"
+      },
+      "lineHeight":{
+        "paytable_1_font":16,
+        "paytable_1_font_gre": 12,
+        "paytable_1_font_jpn": 12,
+        "paytable_1_font_zh_cn": 12,
+        "paytable_1_font_kor": 12,
+        "paytable_1_font_tha": 12
+      }
+    },
+    {
+      "loader":"loadBitmapFont", "name":"paytable_2_font", "file":"assets/font/",
+      "locMap":{
+        "gre,pol,ron,rus,tur,ukr,vie":"paytable_2_font_gre",
+        "jpn":"paytable_2_font_jpn",
+        "kor":"paytable_2_font_kor",
+        "tha":"paytable_2_font_tha",
+        "zh_cn,zh_tw":"paytable_2_font_zh_cn"
+      }
+    },
+    {
+      "loader":"loadBitmapFont", "name":"paytable_3_font", "file":"assets/font/",
+      "locMap":{
+        "gre,pol,ron,rus,tur,ukr,vie":"paytable_3_font_gre",
+        "jpn":"paytable_3_font_jpn",
+        "kor":"paytable_3_font_kor",
+        "tha":"paytable_3_font_tha",
+        "zh_cn,zh_tw":"paytable_3_font_zh_cn"
+      }
+    },
+    {"loader":"loadBitmapFont", "name":"big_win_font", "file":"assets/font/", "xml":true},
+    {"loader":"loadBitmapFont", "name":"paytable_number_font", "file":"assets/font/"},
+    {"loader":"loadBitmapFont", "name":"counter_pay_number_font", "file":"assets/font/"},
+    {
+      "loader":"loadBitmapFont", "name":"info_line_font", "file":"assets/font/",
+      "locMap":{
+        "gre,pol,ron,vie":"info_line_font_gre",
+        "jpn":"info_line_font_jpn",
+        "kor":"info_line_font_kor",
+        "pol,ron":"info_line_font_pol",
+        "tha":"info_line_font_tha",
+        "zh_cn,zh_tw":"info_line_font_zh_cn"
+      }
+    },
+    {
+      "loader":"loadBitmapFont", "name":"t_history_font", "file":"assets/font/",
+      "locMap":{
+        "gre,rus,ukr,vie":"t_history_font_gre",
+        "jpn":"t_history_font_jpn",
+        "kor":"t_history_font_kor",
+        "tha":"t_history_font_tha",
+        "zh_cn,zh_tw":"t_history_font_zh_cn"
+      },
+      "dyMap":{
+        "rus":-18,
+        "ukr":-18,
+        "vie":-18,
+        "gre":-18
+      },
+      "lineHeight":{
+        "t_history_font": 8,
+        "t_history_font_gre":5,
+        "t_history_font_jpn":18,
+        "t_history_font_kor":18,
+        "t_history_font_zh_cn":18
+      }
+    },
+
+    {"loader":"loadBitmapFont", "jpContent":true, "name":"jackpot_font", "file":"assets/font/"},
+    {
+      "loader":"loadBitmapFont", "jpContent":true, "name":"jackpot_title_70", "file":"assets/font/",
+      "locMap":{
+        "jpn":"jackpot_title_70_jp_JP",
+        "hin":"jackpot_title_70_hi-HIN",
+        "kor":"jackpot_title_70_ko-KOR",
+        "tha":"jackpot_title_70_th-THA",
+        "vie":"jackpot_title_70_vi-VIE",
+        "zh_cn":"jackpot_title_70_zh-CN",
+        "zh_tw":"jackpot_title_70_zh-TW"
+      }
+    },
+    {
+      "loader":"loadBitmapFont", "jpContent":true, "name":"jackpot_title_font_30", "file":"assets/font/",
+      "locMap":{
+        "jpn":"jackpot_title_font_30_jp-JP",
+        "hin":"jackpot_title_font_30_hi-HIN",
+        "kor":"jackpot_title_font_30_ko-KOR",
+        "tha":"jackpot_title_font_30_th-THA",
+        "vie":"jackpot_title_font_30_vi-VIE",
+        "zh_cn":"jackpot_title_font_30_zh-CN",
+        "zh_tw":"jackpot_title_font_30_zh-TW"
+      }
+    },
+    {
+      "loader":"loadBitmapFont", "jpContent":true, "name":"jp_lose_font", "file":"assets/font/",
+      "locMap":{
+        "gre":"jp_lose_font_gre",
+        "jpn":"jp_lose_font_jpn",
+        "kor":"jp_lose_font_kor",
+        "pol,ron":"jp_lose_font_pol",
+        "tha":"jp_lose_font_tha",
+        "vie":"jp_lose_font_vie",
+        "zh_cn,zh_tw":"jp_lose_font_zh_cn"
+      },
+      "dyMap":{
+        "gre":-5,
+        "jpn":-4,
+        "kor":-5,
+        "pol,ron":2,
+        "tha":-1,
+        "vie":1,
+        "zh_cn,zh_tw":-3
+      }
+    },
+
+    {
+      "loader":"loadBitmapFont", "name":"ui_font", "file":"assets/font/",
+      "locMap":{
+        "gre,pol,ron,vie":"ui_font_gre",
+        "jpn":"ui_font_jpn",
+        "kor":"ui_font_kor",
+        "tha":"ui_font_tha",
+        "zh_cn,zh_tw":"ui_font_zh_cn"
+      }
+    },
+    {
+      "loader":"loadBitmapFont", "name":"ui_number_font", "file":"assets/font/"
+    },
+    {
+      "loader":"loadBitmapFont", "name":"ui_stroke_font", "file":"assets/font/",
+      "locMap":{
+        "gre,pol,ron,vie":"ui_stroke_font_gre",
+        "jpn":"ui_stroke_font_jpn",
+        "kor":"ui_stroke_font_kor",
+        "tha":"ui_stroke_font_tha",
+        "zh_cn,zh_tw":"ui_stroke_font_zh_cn"
+      }
+    },
+    {
+      "loader":"loadBitmapFont", "name":"ui_stroke_number_font", "file":"assets/font/"
+    },
+    {
+      "loader":"loadBitmapFont", "name":"reality_font", "file":"assets/font/",
+      "locMap":{
+        "gre,pol,ron,vie":"reality_font_gre",
+        "jpn":"reality_font_jpn",
+        "kor":"reality_font_kor",
+        "tha":"reality_font_tha",
+        "zh_cn,zh_tw":"reality_font_zh_cn"
+      },
+      "lineHeight":{
+        "reality_font_jpn":7,
+        "reality_font_kor":7,
+        "reality_font_zh_cn":7
+      }
+    },
+
+    {"loader":"loadJson", "deviceFolder":true, "name":"GDGui", "file":""},
+    {"loader":"loadJson", "name":"GDMain", "file":"assets/"},
+    {"loader":"loadJson", "name":"GDReality", "file":"assets/"},
+    {"loader":"loadJson", "name":"GDPaytable", "file":"assets/"},
+    {"loader":"loadJson", "name":"GDReels", "file":"assets/"},
+    {"loader":"loadJson", "name":"GDSlotSymbol", "file":"assets/"},
+    {"loader":"loadJson", "name":"GDWinEffect", "file":"assets/"},
+    {"loader":"loadJson", "active":0, "name":"GDFreeGameBegin", "file":"assets/"},
+    {"loader":"loadJson", "active":0, "name":"GDFreeGameEnd", "file":"assets/"},
+    {"loader":"loadJson", "active":0, "name":"GDFreeInFree", "file":"assets/"},
+    {"loader":"loadJson", "active":0, "name":"GDFreeBuy", "file":"assets/"},
+    {"loader":"loadJson", "active":1, "name":"GDIntro", "file":"assets/"},
+    {"loader":"loadJson", "active":1, "name":"GDIntroInfo", "file":"assets/"},
+    {"loader":"loadJson", "active":1, "name":"GDSetting", "file":"assets/"},
+    {"loader":"loadJson", "name":"GDHistory", "file":"assets/"},
+    {"loader":"loadJson", "name":"GDHistoryBlock", "file":"assets/"},
+    {"loader":"loadJson", "name":"GDLocalisation", "file":"assets/"},
+    {"loader":"loadJson", "active":0, "name":"GDBonus", "file":"assets/"},
+    {"loader":"loadJson", "active":0, "name":"GDGamble", "file":"assets/"},
+
+    {"loader":"loadJson", "active":1, "name":"DebugRequest", "file":"assets/"},
+    {"loader":"loadJson", "active":0, "name":"emitter (3)", "file":"assets/particles/"},
+    {"loader":"loadJson", "active":1, "name":"ThemeGui", "file":"assets/tournament/"}
+  ],
+  "particle":[
+    {"name":"New Bundle", "file":""}
+  ],
+  "neutrino":[
+    {"loader":"loadNeutrino", "active":1, "name":"win_line", "file":"assets/particles/"}
+  ],
+  "sound":[
+    {"loader":"loadAudio", "active":0, "name":"ambienceGeneral", "file":"assets/Sounds/", "volume":1, "type":"music"},
+    {"loader":"loadAudio", "active":0, "name":"big win_ END", "file":"assets/Sounds/", "volume":1, "type":"sound"}
+  ],
+  "spriteSheetEff":null
+}

@@ -1,0 +1,28 @@
+{
+  "debug":0, "visible":0,
+
+  "x":0, "y":0, "scale":1.0, "sdx":0.5, "sdy":0.5,
+  "v_x":0, "v_y":0,
+
+  "deepPosition":true,
+  "tween_alpha_time":1.0,
+
+  "delay_logo":1.0,
+  "time_alpha_intro":0.3,
+
+  "entities":[
+    {
+      "x":0, "y":0,
+      "deepPosition":false, "noCheckSize":true,
+      "type":"sprite", "texture":"pirat_black.png",
+      "name":"tint", "debug":0
+    },
+    {
+      "x":649, "y":649, "dx":0, "dy":0, "speed":1, "scale":1,
+      "v_x":277, "v_y":770, "v_scale":1.0,
+      "play":false, "playLoop":false,
+      "textures":"pirat_intro", "custom_a_name":"animation", "name":"a_logo_intro",
+      "type":"actorSpine", "debug":0
+    }
+  ]
+}

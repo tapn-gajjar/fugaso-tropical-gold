@@ -1,0 +1,10 @@
+win scatter and win = []
+win coins = [39,61,1]
+big win = [27,25,26]
+wild symbol = [56,47,16]
+
+simple win - 100
+bigger win - 500
+big win - 1000
+mega win - 2000
+epic win - 10000

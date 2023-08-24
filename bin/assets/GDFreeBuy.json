@@ -1,0 +1,82 @@
+{
+  "show_debug":0, "debug":0,
+
+  "x":0, "y":0, "scale":1.0, "sdx":0.5, "sdy":0.5,
+  "v_x":-284, "v_y":135, "v_scale":0.85,
+
+  "time_alpha":1.0,
+
+  "time_show_btn":0.4,
+  "time_tween_text":0.8,
+  "time_hide_text":0.4,
+  "time_delay_text":0.2,
+  "locTexture":{
+    "deu":"buy_deu",
+    "eng,gb,can":"buy_eng",
+    "esp":"buy_esp",
+    "fra":"buy_fra",
+    "gre":"buy_gre",
+    "hin":"hin_buy",
+    "ind":"buy_ind",
+    "ita":"buy_ita",
+    "jpn":"buy_jpn",
+    "kor":"buy_kor",
+    "nor":"buy_nor",
+    "pol":"buy_pol",
+    "prt":"buy_prt",
+    "ron":"buy_ron",
+    "rus":"buy_rus",
+    "swe":"buy_swe",
+    "tha":"tha_buy",
+    "tur":"buy_tur",
+    "ukr":"buy_ukr",
+    "vie":"buy_vie",
+    "zh_cn":"buy_zh_cn",
+    "zh_tw":"buy_zh_tw"
+  },
+
+  "entities":[
+    {
+      "x":0, "y":0, "width":1280, "height":720,
+      "color":"0x000000", "alpha":0.7,
+      "time_tween":0.3, "time_hide":0.3,
+      "type":"rect", "name":"r_bonus_tint", "debug":0, "active":10
+    },
+
+    {
+      "x":653, "y":338, "dy":0, "speed":1, "scale":0.67,
+      "play":false, "playLoop":false,
+      "a_start":"Animate In", "a_end":"Animate out", "a_loop":"Loop",
+      "textures":"annauncment", "custom_a_name":"Animate In", "name":"s_free_bg",
+      "type":"actorSpine", "debug":0
+    },
+    {
+      "x":650, "y":267,
+      "width":432, "height":91, "align":"center", "alignV":"middle",
+      "font":{"size":62, "name":"buy_font"}, "-fill":"0x000001", "letterSpacing":0,
+      "checkFontSize":true, "oneLine":true, "toUpperCase":false, "locCheck":true,
+      "locConst":"buy_3", "type":"textBitmap", "name":"t_1", "debug":0
+    },
+    {
+      "x":650, "y":354,
+      "width":444, "height":115, "align":"center", "alignV":"middle",
+      "font":{"size":61, "name":"buy_number_font"}, "-fill":"0x000001", "letterSpacing":0,
+      "checkFontSize":true, "oneLine":true, "toUpperCase":false, "locCheck":false,
+      "text":"120", "type":"textNumberBitmap", "name":"t_cost", "debug":0
+    },
+    {
+      "x":739, "y":465, "anchor":0.5,
+      "out":"b_free_spin_active_0", "over":"b_free_spin_active_1",
+      "down":"b_free_spin_active_2",
+      "type":"button", "name":"b_yes", "debug":0,
+      "-hintAreaRect":{"x":0, "y":0, "width":10, "height":10, "type":0, "debug":0}
+    },
+    {
+      "x":563, "y":465, "anchor":0.5,
+      "out":"b_free_spin_close_0", "over":"b_free_spin_close_1",
+      "down":"b_free_spin_close_2",
+      "type":"button", "name":"b_no", "debug":0,
+      "-hintAreaRect":{"x":0, "y":0, "width":10, "height":10, "type":0, "debug":0}
+    }
+  ]
+}

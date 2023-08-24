@@ -1,0 +1,28 @@
+{"frames": {
+
+"paytable_gre":
+{
+	"frame": {"x":90,"y":1,"w":215,"h":37},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":215,"h":37},
+	"sourceSize": {"w":215,"h":37}
+},
+"win_up_gre":
+{
+	"frame": {"x":1,"y":1,"w":87,"h":42},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":1,"w":87,"h":42},
+	"sourceSize": {"w":95,"h":49}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.1",
+	"image": "Local-gre-0@0.375.png",
+	"format": "RGBA8888",
+	"size": {"w":306,"h":44},
+	"scale": "0.25",
+	"smartupdate": "$TexturePacker:SmartUpdate:af68e881d297774c7262f5c42512a116:776e2597728875b73eec013a0c8077f8:817d284a5e00a92fdb689597232f8f23$"
+}
+}

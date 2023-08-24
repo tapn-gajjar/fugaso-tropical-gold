@@ -1,0 +1,100 @@
+{
+  "show_debug":0, "debug":0, "test_win_value":1000000,
+
+  "x":0, "y":0, "scale":1.0, "sdx":0.5, "sdy":0.5,
+  "v_x":-284, "v_y":135, "v_scale":0.85,
+
+  "window_auto_hide":false,
+  "window_show_sec":3.5,
+  "time_alpha":1.0,
+
+  "time_tween_text":0.8,
+  "time_hide_text":0.4,
+  "time_delay_text":0.2,
+  "locTexture":{
+    "deu":"congratulations_deu",
+    "eng,gb,can":"congratulations_eng",
+    "esp":"congratulations_esp",
+    "fra":"congratulations_fra",
+    "gre":"congratulations_gre",
+    "hin":"congratulations_hin",
+    "ind":"congratulations_ind",
+    "ita":"congratulations_ita",
+    "jpn":"congratulations_jpn",
+    "kor":"congratulations_kor",
+    "nor":"congratulations_nor",
+    "pol":"congratulations_pol",
+    "prt":"congratulations_prt",
+    "ron":"congratulations_ron",
+    "rus":"congratulations_rus",
+    "swe":"congratulations_swe",
+    "tha":"congratulations_tha",
+    "tur":"congratulations_tur",
+    "ukr":"congratulations_ukr",
+    "vie":"congratulations_vie",
+    "zh_cn":"congratulations_zh_cn",
+    "zh_tw":"congratulations_zh_tw"
+  },
+  "list_up_count":["jpn", "kor", "tur"],
+
+  "entities":[
+    {
+      "x":0, "y":0, "width":1280, "height":720,
+      "color":"0x000000", "alpha":0.7,
+      "time_tween":0.8, "time_hide":0.3,
+      "type":"rect", "name":"r_bonus_tint", "debug":0, "active":10
+    },
+    {
+      "x":653, "y":338, "dy":0, "speed":1, "scale":0.67,
+      "play":false, "playLoop":false,
+      "a_start":"Animate In", "a_end":"Animate out", "a_loop":"Loop",
+      "textures":"annauncment", "custom_a_name":"Animate In", "name":"s_free_bg",
+      "type":"actorSpine", "debug":0
+    },
+    {
+      "x":0, "y":0, "type":"sprite", "active":0,
+      "texture":"Sugar_drop_desktop_screen_you_have_won.png", "name":"s_preview", "debug":0
+    },
+    {
+      "x":650, "y":267,
+      "width":432, "height":91, "align":"center", "alignV":"middle",
+      "font":{"size":48, "name":"buy_font"}, "-fill":"0x000001", "letterSpacing":0,
+      "checkFontSize":true, "oneLine":true, "toUpperCase":false, "locCheck":true,
+      "text":"free_end_1", "type":"textBitmap", "name":"t_1", "debug":0
+    },
+    {
+      "x":650, "y":459,
+      "width":432, "height":91, "align":"center", "alignV":"middle",
+      "font":{"size":48, "name":"free_spins_font"}, "-fill":"0x000001", "letterSpacing":0,
+      "checkFontSize":true, "oneLine":true, "toUpperCase":false, "locCheck":true,
+      "text":"free_end_2", "type":"textBitmap", "name":"t_2", "debug":0
+    },
+    {
+      "x":650, "y":354,
+      "width":444, "height":115, "align":"center", "alignV":"middle",
+      "font":{"size":61, "name":"buy_number_font"}, "-fill":"0x000001", "letterSpacing":0,
+      "checkFontSize":true, "oneLine":true, "toUpperCase":false, "locCheck":false,
+      "showCent":true,
+      "text":"120", "type":"textNumberBitmap", "name":"t_total_win", "debug":0
+    },
+    {
+      "x":650, "y":565,
+      "v_fontSize":23, "v_width":535,
+      "width":797, "height":91, "align":"center", "alignV":"middle",
+      "font":{"size":17, "name":"free_spins_font"}, "-fill":"0x000001", "letterSpacing":0,
+      "checkFontSize":true, "oneLine":true, "toUpperCase":false, "locCheck":true,
+      "locConst":"free_start_4", "type":"textBitmap", "name":"t_3", "debug":0,
+      "locConfig":{
+        "hin":{"fontSize":31, "v_fontSize":31}
+      }
+    },
+    {
+      "x":668, "y":322, "dx":0, "dy":0, "speed":1, "scale":1.0,
+      "v_x":649, "v_y":364, "v_scale":0.8,
+      "play":false, "playLoop":false,
+      "textures":"Transition fruits", "custom_a_name":"animation",
+      "name":"a_Transition",
+      "type":"actorSpine", "debug":0
+    }
+  ]
+}

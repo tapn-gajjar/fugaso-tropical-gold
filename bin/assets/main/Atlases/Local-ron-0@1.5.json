@@ -1,0 +1,28 @@
+{"frames": {
+
+"paytable_ron":
+{
+	"frame": {"x":431,"y":1,"w":666,"h":147},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":666,"h":147},
+	"sourceSize": {"w":666,"h":147}
+},
+"win_up_ron":
+{
+	"frame": {"x":1,"y":1,"w":428,"h":179},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":3,"w":428,"h":179},
+	"sourceSize": {"w":459,"h":204}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.1",
+	"image": "Local-ron-0@1.5.png",
+	"format": "RGBA8888",
+	"size": {"w":1098,"h":181},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:89f81a9bdec3bfd85926a44deac3f453:feba64de35c767ce019aa46a6ec0e3b7:22cc6a871243d6fd4053f934beb32746$"
+}
+}
